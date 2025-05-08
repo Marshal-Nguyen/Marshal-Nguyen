@@ -10,7 +10,9 @@
   
 </div>
 <div align="center">
-  <img src="https://github.com/Marshal-Nguyen/Marshal-Nguyen/edit/main/coder_animation.svg" alt="3D Coder Animation" width="800" />
+  <a href="#" target="_blank">
+  <img src="coder_animation.svg" alt="3D Coder Animation" width="800" />
+  </a>
 </div>
 ## 👋 About Me:
 
