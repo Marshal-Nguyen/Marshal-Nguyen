@@ -4,10 +4,12 @@
   
   ![Banner](https://img.shields.io/badge/Frontend%20Developer-UI%2FUX%20Designer-3178C6?style=for-the-badge)
   
+  <img src = "coder_animation.svg" width="700"/>
+
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/TruongGiangNguyen0901)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/truonggiangnguyen0901/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gianggg244@gmail.com)
-  
+
 </div>
 
 ## 👋 About Me:
