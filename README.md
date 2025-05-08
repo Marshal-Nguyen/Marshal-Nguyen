@@ -9,7 +9,9 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gianggg244@gmail.com)
   
 </div>
-
+<div align="center">
+  <img src="https://github.com/Marshal-Nguyen/Marshal-Nguyen/edit/main/coder_animation.svg" alt="3D Coder Animation" width="800" />
+</div>
 ## 👋 About Me:
 
 Xin chào, I'm a **Frontend Developer** and **UI/UX Designer** who loves building beautiful, user-friendly products — for both **web** and **mobile**.  <br>I mostly work with **React** and **React Native**, focusing on creating smooth, intuitive user experiences.
