@@ -1,10 +1,11 @@
+
 # Nguyen Truong Giang | Frontend Developer & UI/UX Designer
 
 <div align="center">
   
   ![Banner](https://img.shields.io/badge/Frontend%20Developer-UI%2FUX%20Designer-3178C6?style=for-the-badge)
   
-  <img src = "coder_animation.svg" width="700"/>
+  <img src = "coder_animation.svg" width="770"/>
 
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/TruongGiangNguyen0901)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/truonggiangnguyen0901/)
