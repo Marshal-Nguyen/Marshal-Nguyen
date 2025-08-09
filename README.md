@@ -1,4 +1,9 @@
-# 👋 Hi there, I'm Nguyen Truong Giang! 
+<div align="center">
+  
+  <!-- Ultra Modern Header with Multiple Animations -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Nguyen%20Van%20Truong%20Giang&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Capricorn%20%7C%20%2009-01-2003%20%&descAlignY=60&descSize=18"/>
+  
+</div>
 
 <div align="center">
   
@@ -8,17 +13,20 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
   
   <!-- Social Links with Hover Animation -->
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/TruongGiangNguyen0901)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/truonggiangnguyen0901/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gianggg244@gmail.com)
+  [![Email](https://img.shields.io/badge/📧_gianggg244@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gianggg244@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/truonggiangnguyen0901/)
+  [![Facebook](https://img.shields.io/badge/👥_Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/TruongGiangNguyen0901)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Marshal-Nguyen&color=brightgreen&style=for-the-badge)
   
 </div>
 
 ---
-
-## <img src="https://user-images.githubusercontent.com/74038190/216656974-24d946bf-b821-4189-a049-89efd9ccb6c3.gif" width="50"> About Me
+<div align="center">
+  
+  ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /> Elite Developer Profile
+  
+</div>
 
 <div align="center">
   
@@ -178,17 +186,28 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216656956-a5bb4178-5b1a-4b19-9c31-57abe95cd3ef.gif" width="50"> Let's Connect!
+<div align="center">
+  
+  ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /> Let's Create Something Extraordinary
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+
+</div>
 
 <div align="center">
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+  ### 🚀 **Ready to Transform Your Digital Vision?**
   
-  **Ready to collaborate on something amazing?** ✨
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=💡+From+Concept+to+Launch+-+I+Make+It+Happen;🎨+Beautiful+Designs+%2B+Flawless+Code;⚡+Performance+Optimized+%2B+User+Focused;🌟+Let's+Build+the+Future+Together!" />
   
-  Let's build the future together! 🚀
+  <br/><br/>
   
-  <img src="https://user-images.githubusercontent.com/74038190/216657065-e2c5f991-5bd7-43c5-bb42-1e7f5a1b7ef9.gif" width="100">
+  <br/>
+  
+  **⚡ QUICK RESPONSE GUARANTEED**
+  - 📱 Mobile: Available 9 AM - 10 PM (GMT+7)
+  - 💬 Response Time: Within 2 hours
+  - 🌍 Remote Collaboration: Global timezone flexibility
   
 </div>
 
@@ -196,8 +215,10 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=3178C6&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+create+something+incredible!;Happy+coding!+%F0%9F%9A%80" alt="Footer Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=⭐+If+you+find+my+work+valuable%2C+consider+starring+my+repos!;🤝+Open+to+collaborations+and+exciting+opportunities;💡+Let's+innovate+and+create+impact+together!;🚀+The+future+is+built+by+those+who+code+with+purpose" />
   
-  ![Snake animation](https://github.com/Marshal-Nguyen/Marshal-Nguyen/blob/output/github-contribution-grid-snake.svg)
+  <br/><br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&animation=twinkling"/>
   
 </div>
