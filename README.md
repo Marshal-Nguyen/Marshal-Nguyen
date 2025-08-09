@@ -5,7 +5,8 @@
   
   ![Banner](https://img.shields.io/badge/Frontend%20Developer-UI%2FUX%20Designer-3178C6?style=for-the-badge)
   
-  <img src = "coder_animation.svg" width="770"/>
+  <script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.6.2/dist/dotlottie-wc.js" type="module"></script>
+  <dotlottie-wc src="https://lottie.host/624a0bbd-bdd5-4d93-8a79-3db6c482a586/JneYlgNAqZ.lottie" style="width: 300px; height: 300px" speed="1" autoplay loop></dotlottie-wc>
 
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/TruongGiangNguyen0901)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/truonggiangnguyen0901/)
